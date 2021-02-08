@@ -1,5 +1,5 @@
 # Wallet
-Short description and motivation.
+The wallet manages virtual credits.
 
 ## Usage
 How to use my plugin.
